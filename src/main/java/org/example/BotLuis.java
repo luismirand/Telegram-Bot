@@ -10,6 +10,7 @@ public class BotLuis extends TelegramLongPollingBot{
         return "luis101bot";
     }
 
+
     @Override
     public String getBotToken(){
         return "6693599238:AAED6e0ybW7AxNCAAG1LTHMnN0DaLw7mt-c";
